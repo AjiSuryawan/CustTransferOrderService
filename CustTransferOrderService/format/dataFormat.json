@@ -1,0 +1,74 @@
+{
+  "formats": [
+    {
+      "FieldName": "ItemCode",
+      "Format": "",
+      "DataType": "String",
+      "Length": 50,
+      "DefaultValue": ""
+    },
+    {
+      "FieldName": "SourceLocation",
+      "Format": "",
+      "DataType": "String",
+      "Length": 50,
+      "DefaultValue": ""
+    },
+    {
+      "FieldName": "DestinationLocation",
+      "Format": "",
+      "DataType": "String",
+      "Length": 50,
+      "DefaultValue": ""
+    },
+    {
+      "FieldName": "TransferNumber",
+      "Format": "",
+      "DataType": "String",
+      "Length": 50,
+      "DefaultValue": ""
+    },
+    {
+      "FieldName": "LineNumber",
+      "Format": "#0",
+      "DataType": "String",
+      "Length": 50,
+      "DefaultValue": ""
+    },
+    {
+      "FieldName": "TransferDate",
+      "Format": "yyyyMMdd",
+      "DataType": "Date",
+      "Length": 8,
+      "DefaultValue": ""
+    },
+    {
+      "FieldName": "ExpectedArrivalDate",
+      "Format": "yyyyMMdd",
+      "DataType": "Date",
+      "Length": 8,
+      "DefaultValue": ""
+    },
+    {
+      "FieldName": "TransferQty",
+      "Format": "#0",
+      "DataType": "Numeric",
+      "Length": 2,
+      "DefaultValue": ""
+    },
+    {
+      "FieldName": "QuantityToShip",
+      "Format": "#0",
+      "DataType": "Numeric",
+      "Length": 2,
+      "DefaultValue": ""
+    },
+    {
+      "FieldName": "QuantityToReceive",
+      "Format": "#0",
+      "DataType": "Numeric",
+      "Length": 2,
+      "DefaultValue": ""
+    }
+  ]
+}
